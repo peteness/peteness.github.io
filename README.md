@@ -1,3 +1,3 @@
 # peteness.github.io
 
-Repo for [git.peteness.org](git.peteness.org).
+Repo for [G.P.O.](http://git.peteness.org/).
