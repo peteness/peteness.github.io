@@ -1,1 +1,1 @@
-My fumblings through the [Elixir](https://www.elixir-lang.org/) programming language.  :speech_balloon:
+My fumblings through the programming languages.  :speech_balloon:
